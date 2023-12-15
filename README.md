@@ -1,5 +1,5 @@
 ## Projeto
-O projeto é um cartão de NFT.
+Projeto de um cartão de NFT.
 
 ![card NFT](https://github.com/dolfow/NFT/assets/77153465/d36e8f0a-5516-4ad7-b577-c8a42aad76cd)
 
